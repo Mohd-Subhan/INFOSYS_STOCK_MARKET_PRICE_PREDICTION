@@ -1,11 +1,11 @@
-INFOSYS Stock Price Prediction
-Project Overview
+**INFOSYS Stock Price Prediction
+Project Overview**
 
 This project focuses on predicting the next day’s closing price of INFOSYS stock using historical stock market data and machine learning techniques.
 
 The project follows a complete data science workflow including data preprocessing, exploratory data analysis (EDA), model building, and evaluation.
 
-Objective
+**Objective**
 
 Predict next day’s closing price using today’s stock data
 
@@ -15,7 +15,7 @@ Compare different regression models
 
 Identify the best-performing model
 
-Dataset
+**Dataset**
 
 The dataset contains daily stock prices of INFOSYS with the following columns:
 
@@ -33,7 +33,7 @@ Adj Close
 
 Volume
 
-Data Preprocessing
+**Data Preprocessing**
 
 Converted Date column to datetime
 
@@ -47,7 +47,7 @@ Split data into train and test sets
 
 Applied feature scaling where required
 
-Exploratory Data Analysis (EDA)
+**Exploratory Data Analysis (EDA)**
 
 Closing price trend over time
 
@@ -57,7 +57,7 @@ Correlation between features and target
 
 Visual comparison of actual vs predicted prices
 
-Machine Learning Models Used
+**Machine Learning Models Used**
 
 Linear Regression
 
@@ -67,7 +67,7 @@ Decision Tree Regressor
 
 Random Forest Regressor
 
-Model Evaluation
+**Model Evaluation**
 
 Models were evaluated using:
 
@@ -77,11 +77,11 @@ RMSE (Root Mean Squared Error)
 
 R² Score
 
-Best Model
+**Best Model**
 
 Linear Regression performed best in predicting the next day’s closing price.
 
-Technologies Used
+**Technologies Used**
 
 Python
 
@@ -95,8 +95,8 @@ Scikit-learn
 
 Jupyter Notebook
 
-Author
+**Author
 
 Mohd Subhan
 B.Tech Computer Science | Data Science Minor
-Aspiring Data Scientist & Machine Learning Enthusias
+Aspiring Data Scientist & Machine Learning Enthusias**
